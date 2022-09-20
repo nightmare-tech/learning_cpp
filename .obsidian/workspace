@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "cca7d522c7127ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b375a349b7afcf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64c520d878cd8759",
+    "type": "split",
+    "children": [
+      {
+        "id": "53dc9d2eed913665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0936bcc72505760",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28734ee9df6ab075",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a09ba68de5f096e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f802ebd1c33fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ba380ba4595562f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62b375a349b7afcf",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Notes.md",
+    "6.Initialization_Integers/main.cpp.md",
+    "5.Number-Systems/README.md",
+    "5.Number-Systems/README.md.md",
+    "1.first-program/README.md"
+  ]
+}
